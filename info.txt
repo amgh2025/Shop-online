@@ -1,4 +1,4 @@
 Name = A
-Family = C
+Family = B
 Age = 25
-Gender= 8
+Gender= 12
